@@ -6,5 +6,16 @@
 </a>
 
 <h1>Hey, i'm Tony 👋 </h1>
-<h4>• CS Student </h3>
-<h4>• Web & Discord bot dev</h4>
+I'm a Computer Science student at University.
+<br />
+<h2>Tools I use:</h2>
+🌐 Web - <a href="https://react.dev/">React</a> & <a href="https://nodejs.org/en">Node JS</a>
+<br />
+⚙️ Discord Bots - <a href="https://discord.js.org/#/docs/discord.js/main/general/welcome">discord.js</a> & <a href="https://nodejs.org/en">Node JS</a>
+
+<h2>Other Languages I Know</h2>
+Python
+<br />
+Typescript
+<br />
+insert more...
