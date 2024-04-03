@@ -6,7 +6,7 @@
 </a>
 
 <h1>Hey, i'm Tony 👋 </h1>
-I'm a Computer Science student at University.
+I'm a Computer Science student at Drexel University.
 <br />
 I love dogs, fortnite, and coding
 <br />
