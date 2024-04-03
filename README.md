@@ -8,10 +8,10 @@
 <h1>Hey, i'm Tony 👋 </h1>
 I'm a Computer Science student at University.
 <br />
-<h2>Currently 🆕</h2>
-Developing a site for other University students using React as a frontend and express (Node JS) for API requests.
+I love dogs, fortnite, and coding
 <br />
-Learning Next.js
+<h2>Currently 🆕</h2>
+Working as a Junior Software Engineer at <a href="https://www.alumniq.com/">AlumnIQ</a>
 <h2>Tools I use 🛠️</h2>
 🌐 Web - <a href="https://react.dev/">React</a> & <a href="https://nodejs.org/en">Node JS</a>
 <br />
