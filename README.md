@@ -10,8 +10,6 @@ I'm a Computer Science student at Drexel University.
 <br />
 I love dogs, fortnite, and coding
 <br />
-<h2>Currently 🆕</h2>
-Working as a Junior Software Engineer at <a href="https://www.alumniq.com/">AlumnIQ</a>
 <h2>Tools I use 🛠️</h2>
 🌐 Web - <a href="https://react.dev/">React</a> & <a href="https://nodejs.org/en">Node JS</a>
 <br />
