@@ -1,25 +1,18 @@
-<a href="https://discord.com/users/534505536712998926" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/534505536712998926?bg=2b2d31&borderRadius=5px">
-</a>
-<a href="https://wakatime.com/@tonydrayton" target="_blank">
-<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=tonydrayton&border_radius=5px&theme=dark&bg_color=2b2d31&border_color=2b2d31&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
-</a>
+# 👨‍🚀 About Me:
+👨🏽‍💻 currently working on DragonGPT - <a href="https://dragon-gpt-fe.vercel.app/" target="_blank">check out the demo</a><br>📚 studying Computer Science at Drexel University<br>💼 previously worked at <a href="https://www.alumniq.com/" target="_blank">AlumnIQ</a> as a Junior Software Engineer (from April - September 2024)
 
-<h1>Hey, i'm Tony 👋 </h1>
-I'm a Computer Science student at Drexel University.
-<br />
-I love dogs, fortnite, and coding
-<br />
-<h2>Tools I use 🛠️</h2>
-🌐 Web - <a href="https://react.dev/">React</a> & <a href="https://nodejs.org/en">Node JS</a>
-<br />
-⚙️ Discord Bots - <a href="https://discord.js.org/#/docs/discord.js/main/general/welcome">discord.js</a> & <a href="https://nodejs.org/en">Node JS</a>
 
-<h2>Other Languages I Know</h2>
-Python
-<br />
-Typescript
-<br />
-C
-<br />
-Java
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tony-drayton) 
+
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tonydrayton&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tonydrayton&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonydrayton&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=tonydrayton&icon=3&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
