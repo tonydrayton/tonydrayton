@@ -1,7 +1,7 @@
 <img src="tonydraytonbanner1.png" alt="GitHub Banner" width="100%" />
 
 # 👨‍🚀 About Me:
-👨🏽‍💻 currently working on DragonGPT - <a href="https://dragon-gpt-fe.vercel.app/" target="_blank">check out the demo</a><br>📚 studying Computer Science at Drexel University<br>💼 previously worked at <a href="https://www.alumniq.com/" target="_blank">AlumnIQ</a> as a Junior Software Engineer (from April - September 2024)
+👨🏽‍💻 currently working at Comcast as a Software Engineer Intern</a><br>📚 studying Computer Science at Drexel University<br>💼 previously worked at <a href="https://www.alumniq.com/" target="_blank">AlumnIQ</a> as a Junior Software Engineer (from April - September 2024)
 
 
 ## 🌐 Socials:
