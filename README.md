@@ -1,7 +1,7 @@
 <img src="tonydraytonbanner1.png" alt="GitHub Banner" width="100%" />
 
 # 👨‍🚀 About Me:
-👨🏽‍💻 currently working at Comcast as a Software Engineer Intern</a><br>📚 studying Computer Science at Drexel University<br>💼 previously worked at <a href="https://www.alumniq.com/" target="_blank">AlumnIQ</a> as a Junior Software Engineer (from April - September 2024)
+👨🏽‍💻 **currently** working at <a href="https://www.xfinity.com/" target="_blank">Comcast</a> as a Software Engineer Intern</a><br>📚 studying Computer Science at Drexel University (graduating 2027)<br>💼 previously worked at <a href="https://www.alumniq.com/" target="_blank">AlumnIQ</a> as a Junior Software Engineer (from April - September 2024)
 
 
 ## 🌐 Socials:
